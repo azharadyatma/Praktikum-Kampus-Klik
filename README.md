@@ -1,4 +1,4 @@
-## Progress Praktikum Kampsus Klik
+## Progress Praktikum Kampus Klik
 - Nama : Azhar Adyatma Pratama
 - NPM : 2210631170011
 - Mata Kuliah : Pemrograman Web
